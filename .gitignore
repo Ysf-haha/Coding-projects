@@ -1,0 +1,10 @@
+ICT Class/
+.vscode/
+Lab Code/
+Lab Proofs/
+.idea/
+.venv/
+*.exe
+HelloWorld.cpp
+main.py
+tempCodeRunnerFile.cpp
