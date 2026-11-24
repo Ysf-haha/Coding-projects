@@ -8,3 +8,5 @@ Lab Proofs/
 HelloWorld.cpp
 main.py
 tempCodeRunnerFile.cpp
+__pycache__/
+*.py[codz]

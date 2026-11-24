@@ -51,7 +51,7 @@ int main(){
 }
 
 void showBalance(double pBalance){
-    cout << "Current balance: $" << setprecision(2) << fixed << pBalance << endl;
+  cout << "Current balance: $" << setprecision(2) << fixed << pBalance << endl;
 }
 double deposit(){
     double amount;
